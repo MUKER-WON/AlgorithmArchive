@@ -7,3 +7,4 @@
 ## 백준
 
 ## 프로그래머스
+- LV0 [순서쌍의 개수](https://muker.tistory.com/120)
