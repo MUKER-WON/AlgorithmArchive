@@ -5,6 +5,7 @@
 - **정렬** : 풀이한 날짜 기준으로 내림차순
 
 ## 프로그래머스
+- [직각삼각형 출력하기](https://muker.tistory.com/127)
 - [n의 배수 고르기](https://muker.tistory.com/126)
 - [문자열 정렬하기 (1)](https://muker.tistory.com/125)
 - [개미 군단](https://muker.tistory.com/124)
