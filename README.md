@@ -5,6 +5,7 @@
 - **정렬** : 풀이한 날짜 기준으로 내림차순   
 
 ## 프로그래머스
+- [피자 나눠 먹기(2)](https://muker.tistory.com/134)
 - [외계행성의 나이](https://muker.tistory.com/133)
 - [가장 큰 수 찾기](https://muker.tistory.com/132)
 - [약수 구하기](https://muker.tistory.com/131)
