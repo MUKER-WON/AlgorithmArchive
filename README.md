@@ -5,6 +5,7 @@
 - **정렬** : 풀이한 날짜 기준으로 내림차순   
 
 ## 프로그래머스
+- [인덱스 바꾸기](https://muker.tistory.com/138)
 - [369게임](https://muker.tistory.com/137)
 - [문자열 정렬하기 (2)](https://muker.tistory.com/136)
 - [최댓값 만들기 (2)](https://muker.tistory.com/135)
