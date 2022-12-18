@@ -5,6 +5,7 @@
 - **정렬** : 풀이한 날짜 기준으로 내림차순   
 
 ## 프로그래머스
+- [합성수 찾기](https://muker.tistory.com/139)
 - [인덱스 바꾸기](https://muker.tistory.com/138)
 - [369게임](https://muker.tistory.com/137)
 - [문자열 정렬하기 (2)](https://muker.tistory.com/136)
