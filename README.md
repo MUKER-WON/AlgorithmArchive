@@ -5,6 +5,7 @@
 - **정렬** : 풀이한 날짜 기준으로 내림차순   
 
 ## 프로그래머스
+- [나머지가 1이 되는 수 찾기](https://muker.tistory.com/149)
 - [콜라츠 추측](https://muker.tistory.com/148)
 - [분수의 덧셈](https://muker.tistory.com/147)
 - [나누어 떨어지는 숫자 배열](https://muker.tistory.com/146)
