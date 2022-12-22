@@ -5,6 +5,7 @@
 - **정렬** : 풀이한 날짜 기준으로 내림차순   
 
 ## 프로그래머스
+- [구슬을 나누는 경우의 수](https://muker.tistory.com/153)
 - [진료순서 정하기](https://muker.tistory.com/152)
 - [하샤드 수](https://muker.tistory.com/151)
 - [최빈값 구하기](https://muker.tistory.com/150)
