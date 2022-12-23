@@ -5,6 +5,8 @@
 - **정렬** : 풀이한 날짜 기준으로 내림차순   
 
 ## 프로그래머스
+- [2차원으로 만들기](https://muker.tistory.com/155)
+- [팩토리얼](https://muker.tistory.com/154)
 - [구슬을 나누는 경우의 수](https://muker.tistory.com/153)
 - [진료순서 정하기](https://muker.tistory.com/152)
 - [하샤드 수](https://muker.tistory.com/151)
