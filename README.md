@@ -5,6 +5,7 @@
 - **정렬** : 풀이한 날짜 기준으로 내림차순   
 
 ## 프로그래머스
+- [소인수분해](https://muker.tistory.com/157)
 - [핸드폰 번호 가리기](https://muker.tistory.com/156)
 - [2차원으로 만들기](https://muker.tistory.com/155)
 - [팩토리얼](https://muker.tistory.com/154)
