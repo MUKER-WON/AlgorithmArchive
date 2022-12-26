@@ -5,6 +5,8 @@
 - **정렬** : 풀이한 날짜 기준으로 내림차순   
 
 ## 프로그래머스
+- [영어가 싫어요](https://muker.tistory.com/161)
+- [가까운 수](https://muker.tistory.com/160)
 - [음양 더하기](https://muker.tistory.com/159)
 - [컨트롤 제트](https://muker.tistory.com/158)
 - [소인수분해](https://muker.tistory.com/157)
