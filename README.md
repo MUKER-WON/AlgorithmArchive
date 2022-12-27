@@ -5,6 +5,7 @@
 - **정렬** : 풀이한 날짜 기준으로 내림차순   
 
 ## 프로그래머스
+- [문자열 계산하기](https://muker.tistory.com/163)
 - [한 번만 등장한 문자](https://muker.tistory.com/162)
 - [영어가 싫어요](https://muker.tistory.com/161)
 - [가까운 수](https://muker.tistory.com/160)
