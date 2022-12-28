@@ -5,6 +5,7 @@
 - **정렬** : 풀이한 날짜 기준으로 내림차순   
 
 ## 프로그래머스
+- [부족한 금액 계산하기](https://muker.tistory.com/166)
 - [문자열 다루기 기본](https://muker.tistory.com/165)
 - [A로 B 만들기](https://muker.tistory.com/164)
 - [문자열 계산하기](https://muker.tistory.com/163)
