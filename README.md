@@ -5,6 +5,7 @@
 - **정렬** : 풀이한 날짜 기준으로 내림차순   
 
 ## 프로그래머스
+- [잘라서 배열로 저장하기](https://muker.tistory.com/168)
 - [7의 개수](https://muker.tistory.com/167)
 - [부족한 금액 계산하기](https://muker.tistory.com/166)
 - [문자열 다루기 기본](https://muker.tistory.com/165)
