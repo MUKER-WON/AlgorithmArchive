@@ -5,6 +5,10 @@
 - **정렬** : 풀이한 날짜 기준으로 내림차순   
 
 ## 프로그래머스
+- [내적](https://muker.tistory.com/172)
+- [직사각형 별찍기](https://muker.tistory.com/171)
+- [예산](https://muker.tistory.com/170)
+- [직사각형 넓이 구하기](https://muker.tistory.com/169)
 - [잘라서 배열로 저장하기](https://muker.tistory.com/168)
 - [7의 개수](https://muker.tistory.com/167)
 - [부족한 금액 계산하기](https://muker.tistory.com/166)
