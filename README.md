@@ -5,6 +5,9 @@
 - **정렬** : 풀이한 날짜 기준으로 내림차순   
 
 ## 프로그래머스
+- [외계어 사전](https://muker.tistory.com/179)
+- [안전지대](https://muker.tistory.com/178)
+- [숨어있는 숫자의 덧셈 (2)](https://muker.tistory.com/177)
 - [약수의 개수와 덧셈](https://muker.tistory.com/176)
 - [두 정수 사이의 합](https://muker.tistory.com/175)
 - [다항식 더하기](https://muker.tistory.com/174)
