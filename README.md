@@ -5,6 +5,8 @@
 - **정렬** : 풀이한 날짜 기준으로 내림차순   
 
 ## 프로그래머스
+- [약수의 개수와 덧셈](https://muker.tistory.com/176)
+- [두 정수 사이의 합](https://muker.tistory.com/175)
 - [다항식 더하기](https://muker.tistory.com/174)
 - [캐릭터의 좌표](https://muker.tistory.com/173)
 - [내적](https://muker.tistory.com/172)
