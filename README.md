@@ -5,6 +5,7 @@
 - **정렬** : 풀이한 날짜 기준으로 내림차순   
 
 ## 프로그래머스
+- [종이 자르기](https://muker.tistory.com/183)
 - [이진수 더하기](https://muker.tistory.com/182)
 - [유한소수 판별하기](https://muker.tistory.com/181)
 - [k의 개수](https://muker.tistory.com/180)
