@@ -5,6 +5,7 @@
 - **정렬** : 풀이한 날짜 기준으로 내림차순   
 
 ## 프로그래머스
+- [등수 매기기](https://muker.tistory.com/190)
 - [치킨 쿠폰](https://muker.tistory.com/189)
 - [최소직사각형](https://muker.tistory.com/188)
 - [3진법 뒤집기](https://muker.tistory.com/187)
