@@ -5,6 +5,7 @@
 - **정렬** : 풀이한 날짜 기준으로 내림차순   
 
 ## 프로그래머스
+- [연속된 수의 합](https://muker.tistory.com/193)
 - [평행](https://muker.tistory.com/192)
 - [겹치는 선분의 길이](https://muker.tistory.com/191)
 - [등수 매기기](https://muker.tistory.com/190)
